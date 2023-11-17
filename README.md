@@ -1,5 +1,5 @@
 
-# DevOps Project Readme
+# Deploy a static website on AWS
 
 ## Project Overview
 
