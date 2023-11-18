@@ -7,7 +7,7 @@ This project involves the deployment of a static HTML web application on AWS inf
 
 ## Architecture Overview
 
-![Architecture Diagram](2.jpg)
+![Architecture Diagram](html.png)
 
 1. **VPC with Public and Private Subnets (2 Availability Zones):** The infrastructure is set up in a Virtual Private Cloud (VPC) with two availability zones for increased availability and fault tolerance.
 
